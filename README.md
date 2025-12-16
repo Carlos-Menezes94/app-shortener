@@ -1,6 +1,8 @@
 # App Shortener
 
+Este é um aplicativo móvel desenvolvido em Flutter que tem como principal funcionalidade o encurtamento de URLs.
 
+O aplicativo utiliza uma API de encurtamento para transformar links longos e complexos em URLs curtas e fáceis de compartilhar.
 
 ## Arquitetura
 
