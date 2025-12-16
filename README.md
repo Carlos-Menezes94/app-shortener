@@ -1,4 +1,5 @@
-# App Nubank Test
+# App Shortener
+
 
 
 ## Arquitetura
@@ -45,7 +46,7 @@ flutter test
 
 O projeto utiliza GitHub Actions para automação da integração contínua, garantindo a qualidade e a estabilidade do código. O workflow está definido no arquivo `.github/workflows/ci.yml`.
 
-O pipeline é acionado a cada `push` ou `pull request` para a branch `master` e executa os seguintes passos:
+O pipeline é acionado a cada `push` ou `pull request` para a branch `main` e executa os seguintes passos:
 
 1.  **Checkout:** Clona o repositório.
 2.  **Setup Flutter:** Configura o ambiente Flutter na versão estável.
